@@ -1,0 +1,5 @@
+SampleText.js to lorem ipsum bez słów.
+
+Dołącz jQuery, SampleText.js oraz SampleText.css do swojego projektu.
+
+Użyj klasy st-here tam gdzie chcesz użyć SampleText.js dodaj atrybut data-count="50" żeby wygenerować 50 SampleTextowych słów.

@@ -1,0 +1,12 @@
+.st-here
+{
+	text-align: inherit;
+}
+
+.st-word
+{
+	display: inline-block;
+	background: #eaeaea;
+	height: 1em;
+	margin-right: .5em;
+}
